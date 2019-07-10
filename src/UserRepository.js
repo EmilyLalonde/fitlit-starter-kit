@@ -1,3 +1,6 @@
+// const Activity = require('../src/Activity');
+// const activityData = require('../data/activity');
+
 class UserRepository {
   constructor(data) {
     this.data = data || []
@@ -18,7 +21,6 @@ class UserRepository {
     let averageStepGoal = totalStepGoal / this.data.length;
     return averageStepGoal
   }
-  
 }
 
 
