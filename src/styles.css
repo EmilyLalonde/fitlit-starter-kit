@@ -130,7 +130,7 @@ h6 {
   padding-bottom: 20px;
 }
 
-#weekly-activity-metrics{
+#weekly-activity-metrics,
 #weekly-activity-metrics {
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -144,7 +144,7 @@ h6 {
   font-size: 40px;
 }
 
-.today-ounces{
+.today-ounces,
 .today-ounces {
   margin-bottom: 20px;
   margin-top: 20px;
@@ -155,7 +155,7 @@ h6 {
   margin-top: 20px;
 }
 
-.disclaimer{
+.disclaimer,
 .disclaimer {
   font-size: 10px;
   margin-top: 10px;
