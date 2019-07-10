@@ -84,7 +84,7 @@ class Sleep {
     return sleepRecord
   }
 
-    displayRecordHoursSlept(id) {
+  displayRecordHoursSlept(id) {
     let userId = this.findIdHelper(id);
     let sleepHoursList = userId.map(function(aUser) {
       return aUser.hoursSlept
